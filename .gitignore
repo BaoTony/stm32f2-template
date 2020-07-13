@@ -2,3 +2,8 @@
 /Project/DebugConfig/
 /Project/Listings/
 /Project/Objects/
+*.map
+*.uvopt
+*.uvoptx
+*.jia
+
